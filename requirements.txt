@@ -1,0 +1,3 @@
+mechanize
+colorama
+bs4
