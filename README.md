@@ -15,7 +15,7 @@ En los últimos meses, este servicio hizo que el acceso a su API tuviera un cost
     
 **Instalación:**
 
-    git clone https://github.com/IDX4CKS/IamHacked.git
+    git clone https://github.com/JoSecMx/IamHacked
     cd IamHacked
     pip install -r requirements.txt
     chmod +x iamhacked.py
@@ -51,7 +51,7 @@ In recent months, this service made access to its API cost-free, so tools with t
 
 **Installation:**
 
->     git clone https://github.com/IDX4CKS/IamHacked.git 
+>     git clone https://github.com/JoSecMx/IamHacked
 >     cd IamHacked 
 >     pip install -r requirements.txt 
 >     chmod +x iamhacked.py 
